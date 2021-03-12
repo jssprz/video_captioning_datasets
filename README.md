@@ -4,7 +4,7 @@
 ## Video + Language Datasets
 
 | Dataset                                                      | Year | Type                   | Caps. Source     | Localization       | Audio             | Long Caps.         |
-| :----------------------------------------------------------: | :--: | :--------------------: | :------------- : | :----------------: | :---:             | :-------:          |
+| :----------------------------------------------------------: | :--: | :--------------------: | :------------- : | :----------------: | :---------------: | :----------------: |
 | MSVD [[1]](#1)                                               | 2011 | Open (YouTube)         | MTurk            |                    |                   |                    |
 | MPII Cooking Act. \citep{Rohrbach2012AActivities}            | 2012 | Cooking                | in-house actors  |                    |                   |                    |
 | MPII Cooking C. Act. \citep{Rohrbach2012ScriptActivities}    | 2012 | Cooking                | in-house actors  |                    |                   |                    |
