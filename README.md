@@ -9,7 +9,7 @@
 | MPII Cooking Act. \citep{Rohrbach2012AActivities}            | 2012 | Cooking                | in-house actors      |               |       |           |
 | MPII Cooking C. Act. \citep{Rohrbach2012ScriptActivities}    | 2012 | Cooking                | in-house actors      |               |       |           |
 | YouCook \citep{Das2013AStitching}                            | 2013 | Cooking                | MTurk                |               |       |           |
-| TACoS \citep{Regneri2013GroundingVideos}                     | 2013 | Cooking                | MTurk                | [x]           |       |           |
+| TACoS \citep{Regneri2013GroundingVideos}                     | 2013 | Cooking                | MTurk                | :heavy_check_mark:           |       |           |
 | TACoS-Multilevel \citep{Rohrbach2014CoherentDetail}          | 2014 | Cooking                | MTurk                |               |       |           |
 | M-VAD \citep{Torabi2015UsingResearch}                        | 2015 | Movie                  | DVS                  |               | [x]   | [x]       |
 | MPII-MD \citep{Rohrbach2015ADescription}                     | 2015 | Movie                  | Script + DVS         |               | [x]   |           |
