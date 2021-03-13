@@ -136,11 +136,3 @@ The next table shows the number of video clips and captions in the standard spli
 <a id="Miech2019HowTo100MClips">[24]</a> A. Miech, D. Zhukov, J.-B. Alayrac, M. Tapaswi, I. Laptev, and J. Sivic, “HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips,” in 2019 IEEE/CVF International Conference on Computer Vision (ICCV), Oct. 2019, pp. 2630–2640, doi: 10.1109/ICCV.2019.00272.
 
 <a id="Awad2020TRECVIDDomains">[25]</a> G. Awad et al., “TRECVID 2020: comprehensive campaign for evaluating video retrieval tasks across multiple application domains,” 2020.
-
-
-
-Compromise minimum solution:
-
-| One    | Two | Three | Four    | Five  | Six
-|-|-|-|-|-|-
-| Span <td colspan=3>triple  <td colspan=2>double
