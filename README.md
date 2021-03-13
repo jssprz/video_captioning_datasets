@@ -69,7 +69,7 @@ The next table shows the number of video clips and captions in the standard spli
 |  Dataset                                                                      | clips (train)    | captions (train) | clips (val) | captions (val) | clips (test) | captions (test) | clips (total) | captions (total) |
 | :---------------------------------------------------------------------------: | :--------------: | :--------------: | :---------: | :------------: | :----------: | :-------------: | :-----------: | :--------------: |
 | MSVD [[1]](#L.Chen2011CollectingEvaluation)                                   | 1,200            | 48,779           | 100         | 4,291          | 670          | 27,768          | 1,970         | 80,838           |
-| TACoS [[]](#Regneri2013GroundingVideos)                                       | -                | -                | -           | -              | -            | -               | 7,206         | 18,227           |
+| TACoS [[5]](#Regneri2013GroundingVideos)                                      | -                | -                | -           | -              | -            | -               | 7,206         | 18,227           |
 | TACoS-Multilevel [[6]](#Rohrbach2014CoherentDetail)                           | -                | -                | -           | -              | -            | -               | 14,105        | 52,593           |
 | M-VAD [[7]](#Torabi2015UsingResearch)                                         | 36,921           | 36,921           | 4,717       | 4,717          | 4,951        | 4,951           | 46,589        | 46,589           |
 | MPII-MD [[8]](#Rohrbach2015ADescription) [[15]]Rohrbach2017GeneratingPeople)  | 56,822           | 56,861           | 4,927       | 4,930          | 6,578        | 6,584           | 68,327        | 68,375           |
@@ -78,12 +78,12 @@ The next table shows the number of video clips and captions in the standard spli
 | MSR-VTT, 2017 [web](http://ms-multimedia-challenge.com/2017/dataset)          | 10,000           | 200,000          | -           | -              | 3,000        | 60,000          | 13,000        | 260,000          |
 | Charades [[11]](#Sigurdsson2016HollywoodUnderstanding)                        | 7,985            | 18,167           | 1,863       | 6,865          | -            | -               | 9,848         | 25,032           |
 | Charades-Ego [[19]](#Sigurdsson2018ActorVideos)                               | 6,167            | 12,346           | 1,693       | 1,693          | -            | -               | 7,860         | 14,039           |
-| TGIF [[13]](#Li2016TGIF:Description)                                          | 80,850           | 80850            | 10,831      | 10,831         | 34,101       | 34,101          | 125,782       | 125,781          |
+| TGIF [[13]](#Li2016TGIFDescription)                                           | 80,850           | 80850            | 10,831      | 10,831         | 34,101       | 34,101          | 125,782       | 125,781          |
 | ActivityNet Caps. [[16]](#Krishna2017Dense-CaptioningVideos)                  | 10,024           | 36,587           | 4,926       | 17,979         | 5,044        | 18,410          | 19,994        | 72,976           |
 | 20BN-s-s V2 [[20]](#Mahdisoltani2018Fine-grainedCaptioning)                   | 168,913          | 1,689,913        | 24,777      | 24,777         | 27,157       | -               | 220,847       | 1,714,690        |
 | TRECVID-VTT'20 [[25]](#Awad2020TRECVIDDomains)                                | 7,485            | 28,183           | -           | -              | 1,700        | -               | 9,185         | 28,183           |
 | VATEX [[23]](#Wang2019VaTeXResearch)                                          | 25,991           | 259,910          | 3,000       | 30,000         | 6,000        | 60,000          | 34,991        | 349,910          |
-| HowTo100M [[24]](#Miech2019HowTo100M:Clips)                                   | -                | -                | -           | -              | -            | -               | 139,668,840   | 139,668,840      |
+| HowTo100M [[24]](#Miech2019HowTo100MClips)                                    | -                | -                | -           | -              | -            | -               | 139,668,840   | 139,668,840      |
 
 ## References
 
