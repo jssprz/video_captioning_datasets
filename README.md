@@ -40,8 +40,8 @@ TRECVID-VTT'20 [[25]](#Awad2020TRECVIDDomains)                           | 2020 
 
 ### Corpus Details
 
-The next table shows the average length of captions, vocabulary (unique words) composition of each dataset's corpus, and percent of tokens that appear in the GloVe-6B dictionary.
-
+The next table details the vocabulary composition of each corpus, *i.e.*, number of tokens, nouns, verbs, adjectives, and adverbs.
+We also show the average length of captions and the percent of tokens that appear in the [GloVe-6B](https://nlp.stanford.edu/projects/glove/) dictionary.
 The words categorization have been calculated by POS-tagging with [*universal tagset* mapping](http://www.nltk.org/book/ch05.html).
 
 Corpus                                                                   | Avg. caption len. | Tokens    | Nouns     | Verbs   | Adjectives | Adverbs | \% of tokens in GloVe-6B |
