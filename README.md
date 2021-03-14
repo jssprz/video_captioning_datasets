@@ -38,6 +38,21 @@ VATEX [[23]](#Wang2019VaTeXResearch)                                     | 2019 
 HowTo100M [[24]](#Miech2019HowTo100MClips)                               | 2019 | Instructional (YouTube)| subtitles        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 TRECVID-VTT'20 [[25]](#Awad2020TRECVIDDomains)                           | 2020 | Open (Twitter+Flirck)  | MTurk            |                    | :heavy_check_mark: | :heavy_check_mark: |
 
+<table>
+  <tr>
+    <td style="text-align: center;">
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTjhrkUrAj5Fpvtvi-QHqUzO4EkMphJjsk6KdaVsEYqORTGzW3i5hE_UHe5fVZSXQFPGXHYc_SUA5qn/pubhtml?gid=509368585&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    </td>
+    <td style="text-align: center;">
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGz0dUcxythEzRxlyX8561HWKqp4yWpSePQJhRNwu-5TEcxgM3qdlDn7dAS1Y28ITAUCPJvRMqrnz5/pubhtml?gid=509368585&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td>Video type</td>
+    <td>Textual annotations source</td>
+  </tr>
+ </table>
+
 ### Corpus Details
 
 The next table details the vocabulary composition of each corpus, *i.e.*, number of tokens, nouns, verbs, adjectives, and adverbs.
