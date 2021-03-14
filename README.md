@@ -40,8 +40,8 @@ TRECVID-VTT'20 [[25]](#Awad2020TRECVIDDomains)                           | 2020 
 
 ## Charts
 
-- [Video type](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjhrkUrAj5Fpvtvi-QHqUzO4EkMphJjsk6KdaVsEYqORTGzW3i5hE_UHe5fVZSXQFPGXHYc_SUA5qn/pubhtml?gid=509368585&amp;single=true&amp;widget=true&amp;headers=false)
-- [Textual annotations source](https://docs.google.com/spreadsheets/d/e/2PACX-1vRGz0dUcxythEzRxlyX8561HWKqp4yWpSePQJhRNwu-5TEcxgM3qdlDn7dAS1Y28ITAUCPJvRMqrnz5/pubhtml?gid=509368585&amp;single=true&amp;widget=true&amp;headers=false)
+- [Video type](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjhrkUrAj5Fpvtvi-QHqUzO4EkMphJjsk6KdaVsEYqORTGzW3i5hE_UHe5fVZSXQFPGXHYc_SUA5qn/pubchart?oid=1088649009&format=interactive)
+- [Textual annotations source](https://docs.google.com/spreadsheets/d/e/2PACX-1vRGz0dUcxythEzRxlyX8561HWKqp4yWpSePQJhRNwu-5TEcxgM3qdlDn7dAS1Y28ITAUCPJvRMqrnz5/pubchart?oid=1088649009&format=interactive)
 
 ### Corpus Details
 
