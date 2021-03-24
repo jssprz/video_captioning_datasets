@@ -14,7 +14,7 @@ A detailed description of all these datasets can be found in our comprehensive r
 	title={Bridging Vision and Language from the Video-to-Text Perspective: A Comprehensive Review},
 	author={Perez-Martin, Jesus and Bustos, Benjamin and F. Guimar\~{a}es, Silvio Jamil and Sipiran, Ivan and Perez, Jorge and Coello Said, Grethel
 	journal = {arXiv},
-  publisher = {arXiv},
+	publisher = {arXiv},
 	year={2021}
 }
 ```
