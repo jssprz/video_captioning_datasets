@@ -1,5 +1,24 @@
 # Datasets for Video Captioning
 
+In this repository, we organize the information about more that 25 datasets of (video, text) pairs that have been used for training and evaluating video captioning models.
+We this repository, we want to make it easier for researches to obtain datasets and replicate results.
+We are open to callobaration for including new datasets and related concepts.
+
+Even when there are several online video platforms to get data from, the construction of a balanced labeled dataset is a costly task that requires significant and time-consuming human effort. Although most of the below listed datasets are not explicitly available, some of them can be obtained from the authors, if requested.
+
+A detailed description of all this datasets can be found in 
+
+```
+
+@article{PerezMartin2021BridgingReview,
+	title={Bridging Vision and Language from the Video-to-Text Perspective: A Comprehensive Review},
+	author={Perez-Martin, Jesus and Bustos, Benjamin and F. Guimar\~{a}es, Silvio Jamil and Sipiran, Ivan and Perez, Jorge and Coello Said, Grethel
+	journal = {arXiv},
+  publisher = {arXiv},
+	year={2021}
+}
+```
+
 ## Video + Language Datasets
 
 List of datasets of video-caption/description pairs for training video-to-text models.
