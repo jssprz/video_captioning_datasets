@@ -1,5 +1,10 @@
 # Datasets for Video Captioning
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![Video-Text and Datasets](https://img.shields.io/badge/VideoCaptioning-DeepLearning-orange)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+
 In this repository, we organize the information about more that 25 datasets of (video, text) pairs that have been used for training and evaluating video captioning models.
 We this repository, we want to make it easier for researches to obtain datasets and replicate results.
 We are open to callobaration for including new datasets and related concepts.
