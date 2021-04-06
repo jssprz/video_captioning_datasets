@@ -1,10 +1,5 @@
 # Datasets for Video Captioning
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-![Video-Text and Datasets](https://img.shields.io/badge/VideoCaptioning-DeepLearning-orange)
-![MIT License](https://img.shields.io/badge/license-MIT-green)
-
 In this repository, we organize the information about more that 25 datasets of (video, text) pairs that have been used for training and evaluating video captioning models.
 We this repository, we want to make it easier for researches to obtain datasets and replicate results.
 We are open to callobaration for including new datasets and related concepts.
@@ -62,16 +57,17 @@ VATEX [[23]](#Wang2019VaTeXResearch)                                     | 2019 
 HowTo100M [[24]](#Miech2019HowTo100MClips)                               | 2019 | Instructional (YouTube)| subtitles        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 TRECVID-VTT'20 [[25]](#Awad2020TRECVIDDomains)                           | 2020 | Open (Twitter+Flirck)  | MTurk            |                    | :heavy_check_mark: | :heavy_check_mark: |
 
-## Charts
+### Charts
 
 - [Video type](https://docs.google.com/spreadsheets/d/e/2PACX-1vTjhrkUrAj5Fpvtvi-QHqUzO4EkMphJjsk6KdaVsEYqORTGzW3i5hE_UHe5fVZSXQFPGXHYc_SUA5qn/pubchart?oid=1088649009&format=interactive)
 - [Textual annotations source](https://docs.google.com/spreadsheets/d/e/2PACX-1vRGz0dUcxythEzRxlyX8561HWKqp4yWpSePQJhRNwu-5TEcxgM3qdlDn7dAS1Y28ITAUCPJvRMqrnz5/pubchart?oid=1088649009&format=interactive)
 
-### Corpus Details
+## Corpus Details
 
 The next table details the vocabulary composition of each corpus, *i.e.*, number of tokens, nouns, verbs, adjectives, and adverbs.
 We also show the average length of captions and the percent of tokens that appear in the [GloVe-6B](https://nlp.stanford.edu/projects/glove/) dictionary.
 The words categorization have been calculated by POS-tagging with [*universal tagset* mapping](http://www.nltk.org/book/ch05.html).
+For obtaining this categorization of each corpus we provide dedicated scripts in [preprocess_corpus](preprocess_corpus) directory.
 
 Corpus                                                                   | Avg. caption len. | Tokens    | Nouns     | Verbs   | Adjectives | Adverbs | \% of tokens in GloVe-6B |
 :----------------------------------------------------------------------: | :---------------: | :-------: | :-------: | :-----: | :--------: | :-----: | :----------------------: |
@@ -91,7 +87,7 @@ TRECVID-VTT'20 [[25]](#Awad2020TRECVIDDomains)                           | 18.90
 VATEX-en [[23]](#Wang2019VaTeXResearch)                                  | 15.25             | 28,634    | 23,288    | 12,796  | 10,639     | 1,924   | 76.84                    |
 HowTo100M [[24]](#Miech2019HowTo100MClips)                               | 4.16              | 593,238   | 491,488   | 198,859 | 219,719    | 76,535  | 36.64                    |
 
-### Standard Splits
+## Standard Splits
 
 The next table shows the number of video clips and captions in the standard splits of each video-caption/description pairs dataset.
 
