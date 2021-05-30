@@ -6,7 +6,7 @@ We are open to callobaration for including new datasets and related concepts.
 
 Even when there are several online video platforms to get data from, the construction of a balanced labeled dataset is a costly task that requires significant and time-consuming human effort. Although most of the below listed datasets are not explicitly available, some of them can be obtained from the authors, if requested.
 
-A detailed description of all these datasets can be found in our comprehensive review about Video-to-Text research area:
+A detailed description of all these datasets can be found in our [comprehensive review](https://arxiv.org/abs/2103.14785) about Video-to-Text research area:
 
 ```
 
