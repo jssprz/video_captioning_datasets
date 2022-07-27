@@ -11,11 +11,11 @@ A detailed description of all these datasets can be found in our [comprehensive 
 ```
 
 @article{PerezMartin2021BridgingReview,
-	title={Bridging Vision and Language from the Video-to-Text Perspective: A Comprehensive Review},
+	title={A Comprehensive Review of Video-to-Text Problem},
 	author={Perez-Martin, Jesus and Bustos, Benjamin and F. Guimar\~{a}es, Silvio Jamil and Sipiran, Ivan and Perez, Jorge and Coello Said, Grethel
-	journal = {arXiv},
-	publisher = {arXiv},
-	year={2021}
+	journal = {Artificial Intelligence Review},
+	doi = {https://doi.org/10.1007/s10462-021-10104-1},
+	year={2022}
 }
 ```
 
